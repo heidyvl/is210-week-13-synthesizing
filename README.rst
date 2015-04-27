@@ -9,7 +9,7 @@ Synthesizing Tasks
 :Course-Name: Software Application Programming I
 :Course-Code: IS 210
 :Points: 21
-:Due-Date: YYYY-MM-DDTHH:mm:ss
+:Due-Date: 2015-05-04T09:00:00
 
 Overview
 ========
